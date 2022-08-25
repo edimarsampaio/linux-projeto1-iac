@@ -2,7 +2,7 @@
 
 Repositório para script projeto 1 Curso de Linux DIO
 
-##Requisitos do script
+## Requisitos do script
 
 Excluir diretórios, arquivos, grupos e usuários criados anteriormente;
 Todo provisionamento deve ser feito em um arquivo do tipo Bash Script;
